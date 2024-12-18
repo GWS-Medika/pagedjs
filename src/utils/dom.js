@@ -363,17 +363,17 @@ export function rebuildTree (node, fragment, alreadyRendered) {
 								// testing. :(
 								// Next step is to change the "true" below to use a custom
 								// attribute that lets you control whether the header is shown.
-								if (true) {
-									pos.style.visibility = 'collapse';
-									pos.style.marginTop = '0px';
-									pos.style.marginBottom = '0px';
-									pos.style.paddingTop = '0px';
-									pos.style.paddingBottom = '0px';
-									pos.style.borderTop = '0px';
-									pos.style.borderBottom = '0px';
-									pos.style.lineHeight = '0px';
-									pos.style.opacity = 0;
-								}
+								// if (true) {
+								// 	pos.style.visibility = 'collapse';
+								// 	pos.style.marginTop = '0px';
+								// 	pos.style.marginBottom = '0px';
+								// 	pos.style.paddingTop = '0px';
+								// 	pos.style.paddingBottom = '0px';
+								// 	pos.style.borderTop = '0px';
+								// 	pos.style.borderBottom = '0px';
+								// 	pos.style.lineHeight = '0px';
+								// 	pos.style.opacity = 0;
+								// }
 							}
 						}
 					}
